@@ -1,0 +1,84 @@
+# 📊 Telecom Churn Analysis
+
+## 📌 Project Overview
+
+This project focuses on analyzing customer churn in a telecom company.
+The goal is to identify patterns and factors that lead to customer churn and provide insights to improve customer retention.
+
+---
+
+## 🛠️ Tools Used
+
+* Excel (Data Cleaning & Pivot Analysis)
+* SQL (Data Querying & Analysis)
+* Power BI (Interactive Dashboard)
+
+---
+
+## 📂 Dataset
+
+The dataset contains customer details such as:
+
+* Customer ID
+* Gender
+* Senior Citizen
+* Tenure
+* Contract Type
+* Internet Service
+* Monthly Charges
+* Total Charges
+* Churn (Yes/No)
+
+---
+
+## 📊 Key Analysis Performed
+
+* Churn vs Non-Churn comparison
+* Churn by Contract Type
+* Churn by Tenure Groups
+* Churn by Monthly Charges
+* Customer behavior analysis using SQL queries
+
+---
+
+## 📈 Dashboard
+
+An interactive Power BI dashboard was created to visualize:
+
+* Total Customers
+* Total Churn
+* Churn Percentage
+* Churn distribution across different factors
+
+---
+
+## 🔍 Key Insights
+
+* Customers with **month-to-month contracts** have the highest churn
+* Customers with **low tenure** are more likely to churn
+* Higher monthly charges lead to increased churn risk
+
+---
+
+## 💡 Recommendations
+
+* Encourage customers to opt for long-term contracts
+* Focus on retaining new customers
+* Provide better value or offers to high-paying customers
+
+---
+
+## 📁 Project Structure
+
+* Dataset file
+* Power BI dashboard
+* SQL queries file
+* Dashboard screenshots
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates end-to-end data analysis using Excel, SQL, and Power BI to derive meaningful business insights.
+
+---
