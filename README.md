@@ -1,87 +1,73 @@
-\# Healthcare Appointment No-Show Analysis
+# 🏥 Healthcare Appointment No-Show Analysis
 
+## 📌 Project Overview
 
+This project focuses on analyzing healthcare appointment data to understand why patients miss their appointments (no-shows). The goal is to identify key factors affecting attendance and provide insights to improve hospital scheduling.
 
-\## Introduction
+---
 
-This project analyzes healthcare appointment data to understand patterns behind patient no-shows. The analysis identifies factors such as age, gender, medical conditions, and SMS reminders that influence appointment attendance.
+## 🛠️ Tools Used
 
+* Excel (Data Cleaning & Analysis)
+* SQL (Data Querying)
+* Power BI (Dashboard Visualization)
 
+---
 
-\## Tools Used
+## 📂 Dataset
 
-Python, Pandas, Seaborn, Matplotlib, Scikit-Learn, SQL, Power BI
+The dataset includes:
 
+* Patient Age
+* Gender
+* Medical Conditions (Hypertension, Diabetes)
+* SMS Reminders
+* Appointment Status (Show / No-Show)
 
+---
 
-\## Dataset
+## 📊 Analysis Performed
 
-The dataset contains patient appointment records including age, gender, SMS reminders, medical conditions, and whether the patient attended the appointment.
+* No-show vs attended comparison
+* Age-wise analysis of patients
+* Gender impact on attendance
+* Effect of SMS reminders
+* Impact of medical conditions
 
+---
 
+## 📈 Dashboard
 
-\## Analysis
+An interactive Power BI dashboard was created to visualize:
 
-Exploratory Data Analysis was performed to study:
+* Total Patients
+* No-Show Rate
+* Age vs No-Show
+* Gender vs No-Show
+* SMS Reminder Impact
+* Medical Condition Impact
 
-\- Age distribution of patients
+---
 
-\- Gender vs no-show
+## 🔍 Key Insights
 
-\- Impact of SMS reminders
+* A significant number of patients miss appointments
+* Younger patients tend to miss appointments more frequently
+* SMS reminders help reduce no-shows
+* Certain medical conditions impact attendance
 
-\- Effect of medical conditions
+---
 
+## 💡 Recommendations
 
+* Send timely SMS reminders to patients
+* Focus on younger patient engagement
+* Improve scheduling and follow-up systems
 
-\## Machine Learning
+---
 
-A Decision Tree Classifier was used to predict whether a patient is likely to miss their appointment.
+## 🚀 Conclusion
 
+This project demonstrates how data analysis can help healthcare providers reduce missed appointments and improve operational efficiency.
 
-
-\## Power BI Dashboard
-
-An interactive dashboard was created to visualize:
-
-\- No-show distribution
-
-\- Age vs no-show
-
-\- Gender vs no-show
-
-\- Hypertension \& Diabetes impact
-
-\- SMS reminder impact
-
-\- Total Patients KPI
-
-\- No-Show Rate KPI
-
-
-
-\## Dashboard Preview
-
-!\[Dashboard](dashboard.png)
-
-
-
-\## Key Insights
-
-\- Many patients miss their appointments.
-
-\- Younger patients miss appointments more frequently.
-
-\- SMS reminders reduce missed appointments.
-
-\- Some medical conditions influence attendance.
-
-
-
-\## Conclusion
-
-Hospitals can use these insights to improve scheduling systems and reduce missed appointments.
-
-&nbsp;           
-
-![alt text](dashboard.png)
+---
